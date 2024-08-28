@@ -9,12 +9,12 @@ To do this, I needed to create a map with the following features:
  -Create a legend that will provide context for my map data.
 ##
 ##
-Everything went pretty smoothly for me in this assignment, until I got to the legend. Going off the student bike leaflet activity in class I didn't have much luck getting the same results with this dataset. I used Stack Overflow and google searches to find out how to create the legend to work with this dataset, using 'i' to loop through the depths instead of making categories like he did in the activity. In my head it should have worked the same in this one, but I was obviously doing something wrong. So this way I learned something new I guess. 
+Everything went pretty smoothly for me in this assignment with connecting to the geojson using D3, and then I got to the legend. Going off the student bike leaflet activity in class I didn't have much luck getting the same results with this dataset. I used Stack Overflow and google searches to find out how to create the legend to work with this dataset, using 'i' to loop through the depths instead of making categories like he did in the activity. In my head it should have worked the same in this one, but I was obviously doing something wrong. So this way I learned something new I guess. 
 ##
 If you open the index.html from VS code, it should work on either the live server or the default browser. 
 The logic.js file is located in the "js" folder 
-The style.css file is located in the "css" folder, and the data was fetched from the USGS website. 
-##
+The style.css file is located in the "css" folder
+
 Thank you for taking the time to grade my assignment! 
 
 Jackson Whited 
